@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Тестуємо PHP</title>
+    <title>Тест PHP</title>
 </head>
 
 <body>
